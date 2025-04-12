@@ -51,7 +51,7 @@ const audioConfig = {
 // API Configuration
 const API_CONFIG = {
     url: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent',
-    key: 'AIzaSyA8_mnMJCeRNBtddv8Js4L94HNsZ4_7NxM'
+    key: ''
 };
 
 // Cache management
